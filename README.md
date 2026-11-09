@@ -1,2 +1,2 @@
 # Store-Sales-Analysis
-Average products per customer by store using R
+I analyzed average products per customer by store using R
